@@ -25,18 +25,21 @@
 * Network Security and Cryptography
 
 ## Languages I have learned so far
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" alt="C" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="Cpp" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="javascript" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" alt="rust" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="python" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/lua/lua.png" alt="lua" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png" alt="go" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="java" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" alt="kotlin" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" alt="dart" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" alt="bash" width="30px">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" alt="C" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="Cpp" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="javascript" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" alt="rust" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="python" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/lua/lua.png" alt="lua" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png" alt="go" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="java" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" alt="kotlin" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" alt="dart" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" alt="bash" width="30px"/>
+
+<br />
+<br />
 
 * C
 * C++
@@ -53,17 +56,20 @@
 
 ## Other Tools I've used
 
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="html" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="css" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" alt="sass" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="git" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" alt="terminal" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/powershell/powershell.png" alt="powershell" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/electron/electron.png" alt="electron" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="vue" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" alt="mysql" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="mongodb" width="30px">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="html" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="css" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" alt="sass" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="git" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" alt="terminal" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/powershell/powershell.png" alt="powershell" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/electron/electron.png" alt="electron" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="vue" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" alt="mysql" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="mongodb" width="30px"/>
+
+<br />
+<br />
 
 * HTML
 * CSS

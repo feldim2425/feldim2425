@@ -12,7 +12,7 @@
 * 🎧 I love listening to all kinds of music (Including Classic, Mainstream and Electronic music)
 * 👨‍🎓 Currently I'm studying IT-Security
 * 🎮 I do play some video games sometimes.
-* 💾 Retro games, consoles, software and hardware is fascinates me.
+* 💾 Retro games, consoles, software and hardware fascinates me.
 
 ## Interests (Technology related)
 * Web Applications

@@ -9,7 +9,7 @@
 
 * 🎂 Currently I'm 22 years old
 * 📺 I like watching Anime
-* 🎧 I love listening to all kinds of music (Including Classic, Mainstream and Electronic music)
+* 🎧 I love listening to all kinds of music (Including Classic, Metal, Dark/Synthwave and Electronic Music)
 * 👨‍🎓 Currently I'm studying IT-Security
 * 🎮 I do play some video games sometimes.
 * 💾 Retro games, consoles, software and hardware fascinates me.

@@ -23,6 +23,7 @@
 * Linux (Kernel development, Scripting and general usage)
 * Internet Of Things
 * Network Security and Cryptography
+* Machine Learning and Computer Vision (not a lot of experience with it)
 
 ## Languages I have learned so far
 <img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" alt="C" width="30px"/>
@@ -85,6 +86,7 @@
 
 
 ## Tech trivia
-* I mainly use Ubuntu as my Main OS even for gaming (considering switching to Fedora)
+* I mainly use Fedora as my Main OS even for gaming (fromerly Ubuntu)
 * While I mostly use Linux I have experience with Windows Server 2016 & 2019 (from university)
 * I love to learn new programming languages even if I don't use them. Just wanna see whats out there.
+* Rust is currently my favorite programming language.

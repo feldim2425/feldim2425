@@ -7,7 +7,7 @@
 
 ## Who I am
 
-* 🎂 Currently I'm 22 years old
+* 🎂 Currently I'm 23 years old
 * 📺 I like watching Anime
 * 🎧 I love listening to all kinds of music (Including Classic, Metal, Dark/Synthwave and Electronic Music)
 * 👨‍🎓 Currently I'm studying IT-Security
